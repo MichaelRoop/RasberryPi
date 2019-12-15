@@ -1,2 +1,9 @@
 RasberryLearning/.vs/RasberryLearning/v16/*.*
 RasberryLearning/.vs/RasberryLearning/v16/ipch/AutoPCH/*/*.*
+**/obj/ARM/Debug/
+**/obj/ARM64/Debug/
+**/obj/
+**/out/
+RasberryLearning/.vs/slnx.sqlite
+**/v16/
+**/bin/
